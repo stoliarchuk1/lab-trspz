@@ -11,4 +11,3 @@ https://lab-trspz.onrender.com
 1. Запустіть проект локально: `flask run --host 0.0.0.0 -p 5000`.
 2. Або використовуйте Docker: `docker-compose up`.
 
-https://lab-trspz.onrender.com
